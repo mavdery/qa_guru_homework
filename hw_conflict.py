@@ -1,3 +1,4 @@
+message = "Изменение из ветки for_conflict"
 test_emails = [
     # Корректные адреса
     "!!123user@gmail.com",
