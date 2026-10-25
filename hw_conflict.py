@@ -1,6 +1,6 @@
 test_emails = [
     # Корректные адреса
-    "user@gmail.com",
+    "!!123user@gmail.com",
     "admin@company.ru",
     "test_123@service.net",
     "Example.User@domain.com",
