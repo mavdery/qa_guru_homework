@@ -1,0 +1,20 @@
+test_emails = [
+    # Корректные адреса
+    "user@gmail.com",
+    "admin@company.ru",
+    "test_123@service.net",
+    "Example.User@domain.com",
+    "default@study.com",
+    " hello@corp.ru  ",
+    "user@site.NET",
+    "user@domain.coM",
+    "user.name@domain.ru",
+    "usergmail.com",
+    "user@domain",
+    "user@domain.org",
+    "@mail.ru",
+    "name@.com",
+    "name@domain.comm",
+    "",
+    "   ",
+]
