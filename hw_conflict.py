@@ -1,3 +1,4 @@
+message = "Изменение из ветки homework"
 test_emails = [
     # Корректные адреса
     "no_user@gmail.com",
